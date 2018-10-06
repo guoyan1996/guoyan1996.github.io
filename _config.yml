@@ -1,7 +1,7 @@
 # Site settings
 title: GY Blog
 SEOTitle: 郭燕的博客 | GY Blog
-header-img: img/time.jepg
+header-img: img/post-bg-cook.jpg
 email: guoyan@hnu.edu.cn
 description: "算法菜鸡"
 keyword: "GY, GY Blog, 郭燕的博客, guoyan, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "算法菜鸡"
-sidebar-avatar: /img/post-bg-desk.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
